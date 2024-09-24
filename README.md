@@ -1,10 +1,12 @@
-# Data Scientist
+<img style="float: left;" src="/src/img/ball_headshot.jpg">
+
+# Stephen Ball
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education						       		
 - MS, Geology & Geophysics	| University of Wisconsin-Madison (_July 2019_)	 			        		
-- BS with Honors, Geology | The University of Texas at Dallas (_May 2016_)
+- BS with Honors, Geology | Washington & Lee University (_May 2016_)
 
 ## Work Experience
 **Data Scientist @ ExxonMobil (_June 2022 - Present_)**
