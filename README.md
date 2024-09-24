@@ -1,4 +1,4 @@
-# Stephen Ball
+# Data Scientist
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
@@ -8,8 +8,9 @@
 
 ## Work Experience
 **Data Scientist @ ExxonMobil (_February 2023 - Present_)**
+-Finance & Trading MODS Team (Modeling, Optimization, and Data Science)
 **Applied Scientist (Geoscience) @ ExxonMobil (_October 2019 - February 2023_)**
-
+-Technology & Engineering Company
 
 ## Links
 [LinkedIn](https://www.linkedin.com/in/stephenmball/)
