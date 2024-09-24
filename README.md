@@ -1,5 +1,3 @@
-<img style="float: left;" src="/src/img/ball_headshot.jpg">
-
 # Stephen Ball
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
@@ -9,10 +7,9 @@
 - BS with Honors, Geology | Washington & Lee University (_May 2016_)
 
 ## Work Experience
-**Data Scientist @ ExxonMobil (_June 2022 - Present_)**
-- Dot 1
-- Dot 2
+**Data Scientist @ ExxonMobil (_February 2023 - Present_)**
+**Applied Scientist (Geoscience) @ ExxonMobil (_October 2019 - February 2023_)**
 
-## Projects
-### Example 1
-[Publication](https://www.mdpi.com/1424-8220/22/8/3048)
+
+## Links
+[LinkedIn](https://www.linkedin.com/in/stephenmball/)
