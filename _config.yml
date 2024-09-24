@@ -1,5 +1,4 @@
 title: Stephen Ball
-logo: /assets/img/ball_headshot.jpg
-#description: text below image
-show_downloads: true
+logo: /src/img/ball_headshot.jpg
+description: Data Scienctist @ ExxonMobil
 theme: jekyll-theme-minimal
